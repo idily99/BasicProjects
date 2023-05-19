@@ -8,6 +8,7 @@ class BusProjectApplicationTests {
 
 	@Test
 	void contextLoads() {
+System.out.println("fine");
 	}
 
 }
