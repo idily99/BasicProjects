@@ -7,9 +7,12 @@ import org.springframework.boot.test.context.SpringBootTest;
 class BusProjectApplicationTests {
 
 	@Test
+
 	void contextLoads() 
 {
 private  String url="https://github.com/idily99/BasicProjects.git";
+Map<String,Object> map=new HashMap<String,Object>();
+
 System.out.println("fine");
 	}
 
