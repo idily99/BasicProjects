@@ -7,7 +7,9 @@ import org.springframework.boot.test.context.SpringBootTest;
 class BusProjectApplicationTests {
 
 	@Test
-	void contextLoads() {
+	void contextLoads()
+ {
+Map<String,Object> map=new HashMap<String,Object>();
 System.out.println("fine");
 	}
 
