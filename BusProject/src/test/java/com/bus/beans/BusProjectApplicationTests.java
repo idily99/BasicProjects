@@ -4,9 +4,12 @@ import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BusProjectApplicationTests 
-{
+
+class BusProjectApplicationTests
+ {
+private static final String urlname="https://siva/github.com/idily99/BasicProjects.git";
 private Static final String url="https://github.com/idily99/BasicProjects.git";
+
 	@Test
 	void contextLoads()
  {
