@@ -7,7 +7,9 @@ import org.springframework.boot.test.context.SpringBootTest;
 class BusProjectApplicationTests {
 
 	@Test
-	void contextLoads() {
+	void contextLoads() 
+{
+private final String url="https://github.com/idily99/BasicProjects.git";
 System.out.println("fine");
 	}
 
